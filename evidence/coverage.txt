@@ -1,0 +1,6 @@
+example.com/pr15/internal/mathx/mathx.go:5:		Sum		100.0%
+example.com/pr15/internal/mathx/mathx.go:6:		Divide		100.0%
+example.com/pr15/internal/service/service.go:15:	New		100.0%
+example.com/pr15/internal/service/service.go:16:	FindIDByEmail	100.0%
+example.com/pr15/internal/stringsx/clip.go:4:		Clip		100.0%
+total:							(statements)	100.0%
